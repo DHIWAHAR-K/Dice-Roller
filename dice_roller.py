@@ -5,7 +5,7 @@ import random
 # top-level widget which represents the main window of an application
 root = tkinter.Tk()
 root.geometry('400x400')
-root.title('DataFlair Roll the Dice')
+root.title('Roll the Dice')
 
 # Adding label into the frame
 BlankLine = tkinter.Label(root, text="")
